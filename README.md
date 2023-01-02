@@ -7,6 +7,7 @@
 - 📩 You can contact me on GitHub, GitLab and Instagram (@jesusbn09) if you need any project.
 - 🧾 In a short time I will also have a Linkedin profile.
 - 🙌 Follow me if you like my projects!!
+- 🪪 Jr. Developer.
 
 <!---
 jesusbn09/jesusbn09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
