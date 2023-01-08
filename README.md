@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jesus Benavides (@jesusbn09)
-- 👀 I’m interested in software development, especially in web development.
+- 🪪 I’m a Jr. Software Developer.
 - 🌱 I’m currently learning JavaScript, React and NodeJS.
 - 💞️ I’m looking to collaborate on hands-on projects making websites and apps with other developers.
 - 💻 I'm a 22 years old student with a passion for technology, who loves learning new skills and programming languages.
@@ -7,7 +7,6 @@
 - 📩 You can contact me on GitHub, GitLab and Instagram (@jesusbn09) if you need any project.
 - 🧾 In a short time I will also have a Linkedin profile.
 - 🙌 Follow me if you like my projects!!
-- 🪪 Jr. Developer.
 
 <!---
 jesusbn09/jesusbn09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
