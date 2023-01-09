@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning JavaScript, React and NodeJS.
 - 💞️ I’m looking to collaborate on hands-on projects making websites and apps with other developers.
 - 💻 I'm a 22 years old student with a passion for technology, who loves learning new skills and programming languages.
-- 📫 How to reach me:
 - 📩 You can contact me on GitHub, GitLab and Instagram (@jesusbn09) if you need any project.
 - 🧾 In a short time I will also have a Linkedin profile.
 - 🙌 Follow me if you like my projects!!
